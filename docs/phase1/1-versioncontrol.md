@@ -54,14 +54,14 @@ Here at L2C we use Git and GitHub for our version control. I need you to spend a
 
 Before moving on, make sure you can answer "yes" to these:
 
-- [ ] I understand what version control is
-- [ ] I understand what markdown is
-- [ ] I know what a git repository is
-- [ ] I know how to clone a repository
-- [ ] Git is installed on my computer
-- [ ] VS Code is installed on my computer
-- [ ] WSL is set up (Windows users)
-- [ ] I created the `l2c` folder using `mkdir`
-- [ ] The lab repo is cloned locally
-- [ ] My README repo is cloned locally
-- [ ] I starred the Learn to Cloud repository
+- [x] I understand what version control is
+- [x] I understand what markdown is
+- [x] I know what a git repository is
+- [x] I know how to clone a repository
+- [x] Git is installed on my computer
+- [x] VS Code is installed on my computer
+- [x] WSL is set up (Windows users) (i use linux already so not needed)
+- [x] I created the `l2c` folder using `mkdir`
+- [x] The lab repo is cloned locally
+- [x] My README repo is cloned locally
+- [x] I starred the Learn to Cloud repository

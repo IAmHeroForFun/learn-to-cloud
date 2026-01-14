@@ -60,7 +60,7 @@ Starting in a support role is a great way to enter the tech industry. These posi
 
 Before moving on, make sure you can answer "yes" to these:
 
-- [ ] I understand the basics of IT and cloud computing
+- [x] I understand the basics of IT and cloud computing
 - [ ] I know at a high level what Linux, networking, and programming are
 - [ ] I understand what cloud engineers do
 - [ ] I am committed to pursuing a career in tech

@@ -32,8 +32,8 @@ Now we're going to set up your cloud environment. Make sure you've created an ac
 
 Before moving on, make sure you can answer "yes" to these:
 
-- [ ] I understand what a CLI is
-- [ ] I know the benefits of using a CLI vs a UI for cloud resource management
-- [ ] I created a cloud account
-- [ ] I installed my chosen cloud CLI
-- [ ] I configured the CLI with my account credentials
+- [x] I understand what a CLI is
+- [x] I know the benefits of using a CLI vs a UI for cloud resource management
+- [x] I created a cloud account
+- [x] I installed my chosen cloud CLI
+- [x] I configured the CLI with my account credentials

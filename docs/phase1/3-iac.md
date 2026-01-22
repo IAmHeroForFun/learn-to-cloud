@@ -34,8 +34,8 @@ We will spend a lot more time on Infrastructure as Code and other DevOps practic
 
 Before moving on, make sure you can answer "yes" to these:
 
-- [ ] I understand what Infrastructure as Code is
-- [ ] I understand what Terraform is and why it's useful
-- [ ] I know what `terraform init` does
-- [ ] I know what `terraform apply` does
-- [ ] Terraform is installed on my computer
+- [x] I understand what Infrastructure as Code is
+- [x] I understand what Terraform is and why it's useful
+- [x] I know what `terraform init` does
+- [x] I know what `terraform apply` does
+- [x] Terraform is installed on my computer

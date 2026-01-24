@@ -36,7 +36,6 @@ By the end of this phase, you will have:
 | 3 | [Infrastructure as Code](3-iac.md) | Introduction to IaC concepts |
 | 4 | [SSH](4-ssh.md) | Secure shell and remote access |
 | 5 | [CLI Basics](5-clibasics.md) | Essential command line skills |
-| 6 | [CTF Lab](6-ctf.md) | Hands-on Linux challenges |
 
 ---
 
@@ -44,13 +43,10 @@ By the end of this phase, you will have:
 
 Before moving on, make sure you can answer "yes" to these:
 
-- [ ] Git is installed and I understand basic version control
-- [ ] VS Code is installed and configured
-- [ ] I can navigate the terminal and use basic commands
-- [ ] I understand what Infrastructure as Code is
-- [ ] I completed the CTF challenges
-- [ ] WSL is set up (Windows users only)
-
+- [x] Git is installed and I understand basic version control
+- [x] VS Code is installed and configured
+- [x] I can navigate the terminal and use basic commands
+- [x] I understand what Infrastructure as Code is
 ---
 
 ## ➡️ What's Next?

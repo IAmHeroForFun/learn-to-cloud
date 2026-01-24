@@ -164,9 +164,9 @@ Remember: The goal is to learn the commands and understand how they work. Take t
 
 Before moving on, make sure you can answer "yes" to these:
 
-- [ ] I completed Chapters 1-8 of Linux Basics for Hackers (or equivalent)
+- [x] I completed Chapters 1-8 of Linux Basics for Hackers (or equivalent)
 - [x] I understand basic navigation commands (cd, ls, pwd)
 - [x] I can manipulate files and directories from the command line
 - [x] I understand file permissions and how to change them
-- [ ] I can use pipes and redirects to chain commands
-- [ ] I understand basic bash scripting concepts
+- [x] I can use pipes and redirects to chain commands
+- [x] I understand basic bash scripting concepts
